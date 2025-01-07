@@ -8,6 +8,13 @@ HTML, Javascript, Java, Swift, SwiftUI
 I'm trying to learn: 
 C++, and C (also ruby and the zsh shell 😏)
 
+## My Favorite Projects are
+JosiahCraft, MacOS X 10.6 Clone, and my MacOS 9 version of JosiahCraft (forked off of ClassiCube)
+
+## Shoutout to:
+@rehan734 (first follower!)
+@Cucuzacu
+
 <!--
 **JosiahAppsInc/JosiahAppsInc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
