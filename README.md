@@ -2,11 +2,11 @@
 
 I'm a super coder who love retro tech and my project, JosiahCraft (you can check it out here! https://github.com/JosiahAppsInc/JosiahCraft-Eaglercraft-Offline-HTML- )
 
-I like to code in:
-
+## I like to code in:
 HTML, Javascript, Java, Swift, SwiftUI
 
-I'm trying to learn: C++, and C (also ruby and the zsh shell 😏)
+## I'm trying to learn: 
+C++, and C (also ruby and the zsh shell 😏)
 <!--
 **JosiahAppsInc/JosiahAppsInc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
